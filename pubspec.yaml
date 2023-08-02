@@ -1,0 +1,61 @@
+name: loja
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flare_flutter: ^3.0.2
+  rive: ^0.11.4
+  
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/Teddy/Teddy_rive.riv
+   - assets/Icons/animated_icons.riv
+   - assets/Icons/menu_button.riv
+   - assets/Home_Screen/screen1.jpg
+   
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
